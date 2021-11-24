@@ -1,0 +1,10 @@
+<gs:GlobalizationServices xmlns:gs="urn:longhornGlobalizationUnattend"> 
+	<gs:UserList>
+		<gs:User UserID="Current" CopySettingsToDefaultUserAcct="false" CopySettingsToSystemAcct="false"/>
+	</gs:UserList> 
+	<gs:InputPreferences> 
+		<gs:InputLanguageID Action="remove" ID="0409:00000409"/>
+		<gs:InputLanguageID Action="remove" ID="0809:00000809"/>
+		<gs:InputLanguageID Action="remove" ID="0816:00000816"/>
+	</gs:InputPreferences>
+</gs:GlobalizationServices>
